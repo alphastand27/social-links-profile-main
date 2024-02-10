@@ -16,9 +16,7 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [social-links-profile](https://social-links-pro.netlify.app/)
 
 ### Built with
 
@@ -29,6 +27,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@alphastand27](https://www.frontendmentor.io/profile/alphastand27)
 - Twitter - [@loosemanxp](https://twitter.com/loosemanxp)
